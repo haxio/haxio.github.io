@@ -99,11 +99,6 @@ a{
     .section-2{
         padding: 0;
         padding-left: 1.5rem;
-        padding-top: 2000rem;
+        padding-top: 2rem;
     }
 }
-
-ul li::marker {
-    color: white;
-    font-size: 1em;
-  }
