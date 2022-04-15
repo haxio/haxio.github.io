@@ -21,21 +21,20 @@
         </div>
         <div class="section-2">
             <h2>Howdy! 👋</h2>
-            <p>My name is Fabio, I am a HTML5 and Swift developer.</p>
+            <p>My name is Fabio, I am an HTML5 and a Swift developer.</p>
             <h2>My Stuff</h2>
             <a href="https://repo.haxi0-dev.com">APT Repo</a>
             <h2>Contact me</h2>
             <p id="copy">fabiomailboxgood@mail.ru</p>
-            <button type="button" onclick="copyEvent('copy')">Copy</button>
-
+            <button type="button" onclick="copyEvent('copy')">Copy</button> 
             <script>
-            function copyEvent(id)
-            {
-                var str = document.getElementById(id);
-                window.getSelection().selectAllChildren(str);
-                document.execCommand("Copy")
-            }
-        </script>
+                function copyEvent(id)
+                {
+                    var str = document.getElementById(id);
+                    window.getSelection().selectAllChildren(str);
+                    document.execCommand("Copy")
+                }
+            </script>
     </div>
 </body>
 </html>
