@@ -27,7 +27,15 @@
             <h2>Contact me</h2>
             <p id="copy">fabiomailboxgood@mail.ru</p>
             <button type="button" onclick="copyEvent('copy')">Copy</button>
-        </div>
+
+            <script>
+            function copyEvent(id)
+            {
+                var str = document.getElementById(id);
+                window.getSelection().selectAllChildren(str);
+                document.execCommand("Copy")
+            }
+        </script>
     </div>
 </body>
 </html>
