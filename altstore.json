@@ -1,4 +1,6 @@
 {
+    "name": "haxi0's AltStore Repo",
+    "identifier": "org.haxi0.altstore",
     "apps": [
         {
             "beta": false,
