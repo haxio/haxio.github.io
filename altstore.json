@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "Jaility",
-      "bundleIdentifier": "com.haxi0sm.JailityAltStore",
+      "bundleIdentifier": "com.haxi0.SpringDevice",
       "developerName": "haxi0",
       "subtitle": "Simple iOS utility app",
       "version": "1.1",
