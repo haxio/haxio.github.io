@@ -6,7 +6,7 @@
       "name": "Jaility",
       "bundleIdentifier": "com.haxi0.SpringDevice",
       "developerName": "@haxi0sm",
-      "subtitle": "Simple iOS utility app. There aren't many features here, but they are useful. You can reboot & respring in one click!",
+      "subtitle": "Simple iOS utility app.",
       "version": "1.0",
       "versionDate": "2022-06-08",
       "versionDescription": "The first release on the AltStore repository!",
