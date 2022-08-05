@@ -1,0 +1,25 @@
+{
+  "name": "haxi0's AltStore Repo",
+  "identifier": "com.haxi0sm.altstore",
+  "apps": [
+    {
+      "name": "Jaility",
+      "bundleIdentifier": "com.haxi0.SpringDevice",
+      "developerName": "@haxi0sm",
+      "subtitle": "Simple iOS utility app",
+      "version": "1.0",
+      "versionDate": "2022-06-08",
+      "versionDescription": "The first release on the AltStore repository!",
+      "downloadURL": "https://haxi0-dev.com/assets/Jaility1.1-3.ipa?raw=true",
+      "localizedDescription": "Simple iOS utility app",
+      "iconURL": "https://media.discordapp.net/attachments/884374344367738900/984894604560191508/ios-marketing.png",
+      "tintColor": "24aaff",
+      "size": 1258291,
+      "screenshotURLs": [
+	   "https://media.discordapp.net/attachments/884374344367738900/982247280163840020/IMG_0019.png?width=500&height=1082",
+     "https://media.discordapp.net/attachments/884374344367738900/982247279945732146/IMG_0018.png?width=500&height=1082"
+      ]
+    }
+  ],
+  "userInfo": {}
+}
